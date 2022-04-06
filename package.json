@@ -1,0 +1,15 @@
+{
+  "name": "git-homework",
+  "version": "1.0.0",
+  "description": "1.主页面啥也没有\r 2.promise、ajax\r 3.es6\r 4.html\r 5.javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "juery": "^1.0.0"
+  }
+}
